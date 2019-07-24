@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ```[Github]``` Fork 해 온 프로젝트 잔디가 안심어질 때 
+title: GitHub - Fork 해 온 프로젝트 잔디가 안심어질 때 
 subtitle: Forked Project doesn't add contributions
 ---
 <br><br>
