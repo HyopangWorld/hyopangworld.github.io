@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Forked Project doesn't add contributions
-subtitle: Fork 해 온 프로젝트 잔디가 안심어질 때
+title: [Github] Fork 해 온 프로젝트 잔디가 안심어질 때 
+subtitle: Forked Project doesn't add contributions
 ---
 <br><br>
 ## 멘붕이 왔다 🤯
