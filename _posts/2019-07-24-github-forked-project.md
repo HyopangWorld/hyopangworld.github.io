@@ -8,16 +8,16 @@ subtitle: Forked Project doesn't add contributions
 ---------------------------
 
 어제와 그제 [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) 를 fork 해서 블로그를 만들고, 첫 포스팅을 마친 후 신나게 push했다.
-
+<br><br>
 그리고 뿌듯한 마음으로 오늘도 잔디가 예쁘게 깔려있겠지? 하고 봤는데
 
 
 
 <center><img src="../img/2019-07-24_1.png" style="width: 600px;" /></center>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <center>………..??????</center>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <center><img src="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/web/PROFILE/2017/01/21/55_1484964009.gif" align="center" style="width:300px"/></center>
 <br>
