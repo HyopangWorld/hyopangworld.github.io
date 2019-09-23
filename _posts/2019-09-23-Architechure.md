@@ -88,13 +88,13 @@ MVVM패턴을 사용한 코드였는데 너무 놀라웠다. 기능 구현에만
 
 <br><br>
 
-읽어보면 좋을 참고자료 : [프로토콜 지향 MVVM을 소개합니다.] https://academy.realm.io/kr/posts/doios-natasha-murashev-protocol-oriented-mvvm/
+읽어보면 좋을 참고자료 : <a href="https://academy.realm.io/kr/posts/doios-natasha-murashev-protocol-oriented-mvvm/">[프로토콜 지향 MVVM을 소개합니다.] </a>
 
 <br>
 
 출처 및 참조
 
-- [프로그래머 이규원의 블로그 : MVVM 응용프로그램을 위한 프로젝트 구조화] https://justhackem.wordpress.com/2017/03/06/structuring-projects-for-mvvm-application/
-- [프로그래머 이규원의 블로그 : MVVM 아키텍처 패턴] https://justhackem.wordpress.com/2017/03/05/mvvm-architectural-pattern/
+- <a href="https://justhackem.wordpress.com/2017/03/06/structuring-projects-for-mvvm-application/">[프로그래머 이규원의 블로그 : MVVM 응용프로그램을 위한 프로젝트 구조화] </a>
+- <a href=" https://justhackem.wordpress.com/2017/03/05/mvvm-architectural-pattern/"> [프로그래머 이규원의 블로그 : MVVM 아키텍처 패턴] </a>
 
 <br>
