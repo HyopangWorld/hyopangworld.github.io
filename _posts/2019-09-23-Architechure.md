@@ -14,7 +14,7 @@ subtitle: A heading to clean code
 - <a herf="#2" style="color:black;">MVC, MVP, MVVM</a>
 - <a herf="#3" style="color:black;">마무리</a>
 
-<br><br>
+<br>
 
 <h3 id="1">Design Pattern을 공부한 이유  : be a cooool code ✨ </h3>
 
@@ -25,8 +25,6 @@ MVC 패턴을 쓰고 있다 하더라도 왜 쓰는지, 어떤 원리로 동작�
 그러던 어느날 github에서 나의 프로젝트와 비슷한 기능을 구현한 앱의 코드를 구경한 적이 있다. 
 
 MVVM패턴을 사용한 코드였는데 너무 놀라웠다. 기능 구현에만 초점이 맞춰져 있는 코드와 다르게 SOLID 에 훨씬 더 가까웠고, 훨씬 깨끗했다. 그 코드가 멋져 보여서, 디자인 패턴을 공부를 더는 늦춰서는 안된다고 생각했다.
-
-<br>
 
 <br>
 
@@ -42,8 +40,6 @@ MVVM패턴을 사용한 코드였는데 너무 놀라웠다. 기능 구현에만
 
 <br>
 
-
-
 - MVP (Model, Passive View, Presenter)
 
  : MVC 와 비슷하게 Presenter가 중심으로 Passive View 와 Model을 갱신하는 구조이다. 이것만 보면 MVC 패턴과 비슷해보이지만 완전히 다른 방식으로 동작한다. MVP방식은 테스트에 용이하나, iOS에선 코드가 길어질 수 있다고 한다. 비교해서 이해해보자
@@ -57,8 +53,6 @@ MVVM패턴을 사용한 코드였는데 너무 놀라웠다. 기능 구현에만
 넷째, Passive View : MVP에서 View는 말 그대로 수동적인 View이다. View의 역할은 그저 Presenter에게 이벤트가 발생하면 알림을 보내고 보여주는 껍데기이다. 
 
 <br>
-
-
 
 - MVVM (Model, View, View Model)
 
@@ -82,10 +76,6 @@ MVVM패턴을 사용한 코드였는데 너무 놀라웠다. 기능 구현에만
 
 여덟째, [의존성 역전 원리(Dependency Inversion Principle)](https://justhackem.wordpress.com/2016/05/13/dependency-inversion-terms/#dip)를 필요한 곳에 필요한 만큼만 절제해 사용하라. 이 때 반드시 [인터페이스 분리 원리(Interface Segregation Principle)](https://en.wikipedia.org/wiki/Interface_segregation_principle)를 함께 고려하라
 
-
-
-<br>
-
 <br>
 
 <h3>마무리</h3>
@@ -96,9 +86,7 @@ MVVM패턴을 사용한 코드였는데 너무 놀라웠다. 기능 구현에만
 
 개발을 할때, 나름 코드의 이유를 생각하고 짠다고 생각했었는데, 거대한 장벽에 맞닿은 느낌이 왔다. 이후엔 좀 더 디자인 패턴을 이해한 이후에 next로 데이터 바인딩을 공부할 생각이다. 
 
-<br>
-
-<br>
+<br><br>
 
 읽어보면 좋을 참고자료 : [프로토콜 지향 MVVM을 소개합니다.] https://academy.realm.io/kr/posts/doios-natasha-murashev-protocol-oriented-mvvm/
 
@@ -109,3 +97,4 @@ MVVM패턴을 사용한 코드였는데 너무 놀라웠다. 기능 구현에만
 - [프로그래머 이규원의 블로그 : MVVM 응용프로그램을 위한 프로젝트 구조화] https://justhackem.wordpress.com/2017/03/06/structuring-projects-for-mvvm-application/
 - [프로그래머 이규원의 블로그 : MVVM 아키텍처 패턴] https://justhackem.wordpress.com/2017/03/05/mvvm-architectural-pattern/
 
+<br>
