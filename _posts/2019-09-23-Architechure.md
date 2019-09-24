@@ -8,19 +8,19 @@ subtitle: A heading to clean code
 
 <br>
 
-오늘은 Design Patterns을 공부한 내용을 정리해보려고 한다.
+오늘은 Architechture Patterns을 공부한 내용을 정리해보려고 한다.
 
-- <a herf="#1" style="color:black;">Design Pattern을 공부한 이유</a>
+- <a herf="#1" style="color:black;">Architechture Pattern을 공부한 이유</a>
 - <a herf="#2" style="color:black;">MVC, MVP, MVVM</a>
 - <a herf="#3" style="color:black;">마무리</a>
 
 <br>
 
-<h3 id="1">Design Pattern을 공부한 이유  : be a cooool code ✨ </h3>
+<h3 id="1">Architechture Pattern을 공부한 이유  : be a cooool code ✨ </h3>
 
 나는 올해 초까지만 하더라도, 개발 구조에 대한 것을 알지 못했다.
 
-MVC 패턴을 쓰고 있다 하더라도 왜 쓰는지, 어떤 원리로 동작하는지 이해하지 않은 채 사용하고 있었다. Design Pattern의 중요함은 익히 들어 알고 있었으나 당장 급하지 않다고 생각했다.
+MVC 패턴을 쓰고 있다 하더라도 왜 쓰는지, 어떤 원리로 동작하는지 이해하지 않은 채 사용하고 있었다. Architechture Pattern의 중요함은 익히 들어 알고 있었으나 당장 급하지 않다고 생각했다.
 
 그러던 어느날 github에서 나의 프로젝트와 비슷한 기능을 구현한 앱의 코드를 구경한 적이 있다. 
 
