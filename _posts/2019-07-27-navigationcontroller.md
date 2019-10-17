@@ -33,7 +33,6 @@ ViewController (이하 VC) 를 이동할때
 ----------------
 
 <center><img src="../img/2019-07-27_1.png"/><br><a href="https://developer.apple.com/documentation/uikit/uinavigationcontroller/1621871-poptoviewcontroller">https://developer.apple.com/documentation/uikit/uinavigationcontroller/1621871-poptoviewcontroller</a></center>
-
 <br>
 
 아하! 저렇게 원하는 VC를 지정해서가면 되는구나!ㅎㅎ
