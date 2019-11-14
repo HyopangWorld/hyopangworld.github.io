@@ -16,7 +16,6 @@ Observable streams를 위한 비동기성 프로그래밍을 위한 API이다.
 ### Marbles Diagram
 Observable Stream을 표현하는 Diagram
 <center><img src="../img/marbles.png"/></center>
-
 <br>
 <br>
 
