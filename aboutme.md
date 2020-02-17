@@ -8,6 +8,7 @@ subtitle:
 - Seoul. South Korea.
 - Jr. **Android, iOS** Developer
 - Working in [SQI SOFT](http://www.sqisoft.com)
+- Working in [Howlab]
 
 ## Links
 - Email : hyopangworld@gmail.com
