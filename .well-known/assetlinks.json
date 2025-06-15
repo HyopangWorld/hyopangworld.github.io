@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "kr.ac.ssu.mpp.zak.zak_client",
+    "sha256_cert_fingerprints":
+    ["10:95:38:12:3C:D6:D5:FA:CA:81:68:22:E5:73:5F:8F:EA:5B:72:1E:07:9B:2E:7C:B4:70:D4:63:E7:D6:00:C7"]
+  }
+}]
